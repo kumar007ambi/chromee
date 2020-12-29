@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.para{
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+    text-decoration: solid;
+}
